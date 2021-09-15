@@ -1,2 +1,3 @@
 # hello-world
-Hi therre Dipeka this side.
+Hi there! Dipeka this side.
+learning never ends, let's keep exploring..
